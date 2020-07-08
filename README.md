@@ -16,22 +16,22 @@ The final application will allow the farm owner to display their products to the
 <hr>
 <h2>Farm ~2~ Market Screenshots</h2>
 <h3>Main Page</h3>
-<img src="https://git.generalassemb.ly/JeffJackson/farm-to-table/blob/master/images/F2MMain.png" width="500px">
+<img src="https://github.com/MT-Jackrabbit/Farm-2-table/blob/master/images/F2MMain.png" width="500px">
 <hr>
 <h3>Product Display</h3>
-<img src="https://git.generalassemb.ly/JeffJackson/farm-to-table/blob/master/images/F2MProds.png" width="500px">
+<img src="https://github.com/MT-Jackrabbit/Farm-2-table/blob/master/images/F2MProds.png" width="500px">
 <hr>
 <h3>Shopping Cart</h3>
-<img src="https://git.generalassemb.ly/JeffJackson/farm-to-table/blob/master/images/F2MCart.png" width="500px">
+<img src="https://github.com/MT-Jackrabbit/Farm-2-table/blob/master/images/F2MCart.png" width="500px">
 <hr>
 <h3>Administration Main</h3>
-<img src="https://git.generalassemb.ly/JeffJackson/farm-to-table/blob/master/images/F2MAdmin.png" width="500px">
+<img src="https://github.com/MT-Jackrabbit/Farm-2-table/blob/master/images/F2MAdmin.png" width="500px">
 <hr>
 <h3>Product Administration</h3>
-<img src="https://git.generalassemb.ly/JeffJackson/farm-to-table/blob/master/images/F2MAdProds.png" width="500px">
+<img src="https://github.com/MT-Jackrabbit/Farm-2-table/blob/master/images/F2MAdProds.png" width="500px">
 <hr>
 <h3>Customer Administration</h3>
-<img src="https://git.generalassemb.ly/JeffJackson/farm-to-table/blob/master/images/F2MAdCusts.png" width="500px">
+<img src="https://github.com/MT-Jackrabbit/Farm-2-table/blob/master/images/F2MAdCusts.png" width="500px">
 <hr>
 <h2>User Stories</h2>
   <h4>Farm Owner (site owner):</h4>
@@ -84,7 +84,7 @@ The final application will allow the farm owner to display their products to the
   </ul>
 <hr>
 <h2>Data Models</h2>
-<img src="https://git.generalassemb.ly/JeffJackson/farm-to-table/blob/master/images/Screen Shot 2020-06-07 at 12.28.31 PM.png">
+<img src="https://github.com/MT-Jackrabbit/Farm-2-table/blob/master/images/Screen Shot 2020-06-07 at 12.28.31 PM.png">
 <hr>
 <h2>Views</h2>
 <h3>/FarmShop (Public View)</h3>
@@ -108,28 +108,28 @@ The final application will allow the farm owner to display their products to the
   <li>CustomerInvoice (Stretch)</li>
 </ul>
 <h4>Landing Page</h4>
-<img src="https://git.generalassemb.ly/JeffJackson/farm-to-table/blob/master/images/LandingPage.png">
+<img src="https://github.com/MT-Jackrabbit/Farm-2-table/blob/master/images/LandingPage.png">
 <h4>View All Products</h4>
-<img src="https://git.generalassemb.ly/JeffJackson/farm-to-table/blob/master/images/AllProducts.png">
+<img src="https://github.com/MT-Jackrabbit/Farm-2-table/blob/master/images/AllProducts.png">
 <h4>Show Product</h4>
-<img src="https://git.generalassemb.ly/JeffJackson/farm-to-table/blob/master/images/ShowPage.png">
+<img src="https://github.com/MT-Jackrabbit/Farm-2-table/blob/master/images/ShowPage.png">
 <h4>About Page</h4>
-<img src="https://git.generalassemb.ly/JeffJackson/farm-to-table/blob/master/images/AboutPage.png">
+<img src="https://github.com/MT-Jackrabbit/Farm-2-table/blob/master/images/AboutPage.png">
 <h4>Product Edit Page</h4>
-<img src="https://git.generalassemb.ly/JeffJackson/farm-to-table/blob/master/images/EditPage.png">
+<img src="https://github.com/MT-Jackrabbit/Farm-2-table/blob/master/images/EditPage.png">
 <h4>Product Management Page</h4>
-<img src="https://git.generalassemb.ly/JeffJackson/farm-to-table/blob/master/images/ProductMgmt.png">
+<img src="https://github.com/MT-Jackrabbit/Farm-2-table/blob/master/images/ProductMgmt.png">
 <h4>Newletter Signup Page</h4>
-<img src="https://git.generalassemb.ly/JeffJackson/farm-to-table/blob/master/images/Newletter.png">
+<img src="https://github.com/MT-Jackrabbit/Farm-2-table/blob/master/images/Newletter.png">
 <h4>Sign In Page</h4>
-<img src="https://git.generalassemb.ly/JeffJackson/farm-to-table/blob/master/images/SignIn.png">
+<img src="https://github.com/MT-Jackrabbit/Farm-2-table/blob/master/images/SignIn.png">
 <h4>View Cart Page</h4>
-<img src="https://git.generalassemb.ly/JeffJackson/farm-to-table/blob/master/images/UserView.png">
+<img src="https://github.com/MT-Jackrabbit/Farm-2-table/blob/master/images/UserView.png">
 <h4>User Profile Page</h4>
-<img src="https://git.generalassemb.ly/JeffJackson/farm-to-table/blob/master/images/ProfilePage.png">
+<img src="https://github.com/MT-Jackrabbit/Farm-2-table/blob/master/images/ProfilePage.png">
 <h4>New Customer Page</h4>
-<img src="https://git.generalassemb.ly/JeffJackson/farm-to-table/blob/master/images/NewCustomer.png">
+<img src="https://github.com/MT-Jackrabbit/Farm-2-table/blob/master/images/NewCustomer.png">
 <h4>Customer Management Page</h4>
-<img src="https://git.generalassemb.ly/JeffJackson/farm-to-table/blob/master/images/CustomerMgmt.png">
+<img src="https://github.com/MT-Jackrabbit/Farm-2-table/blob/master/images/CustomerMgmt.png">
 <h4>Customer Invoice Page</h4>
-<img src="https://git.generalassemb.ly/JeffJackson/farm-to-table/blob/master/images/CustomerInvoice.png">
+<img src="https://github.com/MT-Jackrabbit/Farm-2-table/blob/master/images/CustomerInvoice.png">
